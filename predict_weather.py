@@ -1,6 +1,3 @@
-pip install requests
-pip install beautifulsoup4
-
 from bs4 import BeautifulSoup #module designed to make screen-scraping done quickly
 import requests #module helps integrate Python programs with web services
 
