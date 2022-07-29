@@ -1,5 +1,3 @@
-pip install requests
-
 import requests
 
 def predict_weather():
